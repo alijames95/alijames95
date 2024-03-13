@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/ali james" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali james" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/ali.james.5855594?mibextid=lqqj4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ali.james.5855594?mibextid=lqqj4d" height="30" width="40" /></a>
 <a href="https://instagram.com/ali_james_95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali_james_95" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ali james" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ali james" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@alijames95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@alijames95" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
